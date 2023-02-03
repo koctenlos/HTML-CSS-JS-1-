@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-color: rgba(209, 202, 202, 0.863);
+}
+
+.storyhead {
+    margin-top: 50px;
+}
+
+.container {
+        text-align: center;
+}
+
+.story {
+    margin-top: 20px;
+}
+
+.jpg {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.spisok {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.spisok1 {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.spisok2 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.spisok22 {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.spisok3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.spisok33 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.links {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.links1 {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
